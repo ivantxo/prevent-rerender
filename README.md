@@ -1,6 +1,6 @@
-Tutorial [Prevent Re-render](https://www.robinwieruch.de/react-prevent-rerender-component/).
+I followed this blog: [Prevent Re-render](https://www.robinwieruch.de/react-prevent-rerender-component/).
 
-# Tips on how to avoid re-render on child components
+Tips on how to avoid re-render on child components
 
 ## Pre-Requisites
 
